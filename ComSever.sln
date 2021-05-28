@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComSever", "ComSever.csproj", "{BE9D2B6A-F10D-474E-B331-A4916BC91234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE9D2B6A-F10D-474E-B331-A4916BC91234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE9D2B6A-F10D-474E-B331-A4916BC91234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE9D2B6A-F10D-474E-B331-A4916BC91234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE9D2B6A-F10D-474E-B331-A4916BC91234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEE2131-573C-49C6-A4DF-2FC254AD480D}
+	EndGlobalSection
+EndGlobal
